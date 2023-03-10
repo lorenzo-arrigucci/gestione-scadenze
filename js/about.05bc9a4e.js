@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkgestione_scadenze"]=self["webpackChunkgestione_scadenze"]||[]).push([[443],{4335:function(e,n,s){s.r(n),s.d(n,{default:function(){return f}});var t=s(3396);const a={class:"about"},u=(0,t._)("h1",null,"This is an about page",-1),c=[u];function r(e,n){return(0,t.wg)(),(0,t.iD)("div",a,c)}var i=s(89);const o={},d=(0,i.Z)(o,[["render",r]]);var f=d}}]);
+//# sourceMappingURL=about.05bc9a4e.js.map
